@@ -1,4 +1,4 @@
-# Adevture of Code 2020
+# Adevnt of Code 2020
 
 These are my attempts to solve Adventure of Code 2020
 
